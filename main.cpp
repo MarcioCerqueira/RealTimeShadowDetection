@@ -3,7 +3,7 @@
 int main(int argc, char **argv) {
 	
 	if(argc != 2) {
-		printf("Usage: ShadowDetection.exe image.png\n");
+		printf("Usage: ShadowDetection.exe imagefile.extension\n");
 		return 0;
 	}
 

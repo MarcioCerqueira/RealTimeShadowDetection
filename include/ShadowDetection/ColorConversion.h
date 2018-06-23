@@ -2,6 +2,7 @@
 #define COLOR_CONVERSION_H
 
 #include <opencv2\opencv.hpp>
+#include "useCUDA.h"
 #ifdef DETECT_SHADOW_USING_CUDA
 #include <cuda_runtime.h>
 #endif

@@ -1,0 +1,1 @@
+//#define DETECT_SHADOW_USING_CUDA

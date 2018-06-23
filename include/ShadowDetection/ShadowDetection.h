@@ -4,7 +4,6 @@
 #include <opencv2\opencv.hpp>
 #include "ColorConversion.h"
 #include "ConnectedComponents.h"
-
 #ifdef DETECT_SHADOW_USING_CUDA
 #include <nppi.h>
 #include <opencv2\gpu\gpu.hpp>
